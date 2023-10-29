@@ -12,11 +12,10 @@ Este é um projeto simples que consiste em um sorteio aleatório de números. O 
 
 ## Como utilizar
 
-1. Abra o arquivo `index.html` no seu navegador preferido.
-2. Insira o número mínimo desejado no primeiro campo de entrada.
-3. Insira o número máximo desejado no segundo campo de entrada.
-4. Clique no botão "Sortear".
-5. O número sorteado será exibido em um alerta.
+1. Insira o número mínimo desejado no primeiro campo de entrada.
+2. Insira o número máximo desejado no segundo campo de entrada.
+3. Clique no botão "Sortear".
+4. O número sorteado será exibido em um alerta.
 
 ## Tecnologias utilizadas
 
